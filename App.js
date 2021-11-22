@@ -14,6 +14,7 @@ const VOLUME_HEIGHT = 300;
 const VOLUME_WIDTH = 140;
 const BUFFER_HEIGHT = 20;
 
+
 export default function App() {
   const height = useSharedValue(BUFFER_HEIGHT);
 
